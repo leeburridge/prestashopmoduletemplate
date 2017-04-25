@@ -17,7 +17,7 @@ class prestashopmoduletemplate extends Module
 		parent::__construct();
 		
 		$this->displayName = $this->l('My Module');
-		$this->description = $this->l('Descriptopm of module.');
+		$this->description = $this->l('Description of module.');
 		
 		$this->confirmUninstall = $this->l('Are you sure you want to uninstall?');
 		
