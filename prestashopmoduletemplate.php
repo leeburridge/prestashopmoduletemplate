@@ -2,7 +2,7 @@
 if (!defined('_PS_VERSION_'))
 	exit;
 
-class pstemplate extends Module
+class prestashopmoduletemplate extends Module
 {
 	public function __construct()
 	{
